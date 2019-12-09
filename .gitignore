@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.log
+.DS_Store
+.idea
+logs/*
+*.iml
+conf/local_config.py
+.env
+.idea/*
